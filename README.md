@@ -45,9 +45,12 @@ Open index.html in a web browser:
 You can simply open the index.html file in any modern web browser to see the digital clock in action.
 
 Customization
+
 To change the clock's styling, modify the style.css file.
 You can easily tweak the JavaScript logic to change the time format or add additional features.
+
 License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Feel free to contribute or suggest improvements by submitting a pull request or opening an issue.
