@@ -1,5 +1,7 @@
 ⏰ Digital Clock
-A simple, elegant digital clock made with HTML, CSS, and JavaScript. This clock displays the current time in a 12-hour format with AM/PM indication and updates every second.
+
+A simple, elegant digital clock made with HTML, CSS, and JavaScript. 
+This clock displays the current time in a 12-hour format with AM/PM indication and updates every second.
 
 📸 Preview
 
