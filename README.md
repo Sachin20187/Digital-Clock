@@ -5,27 +5,20 @@ This is a simple digital clock project built using HTML, CSS, and JavaScript. Th
 Features
 
 Displays the current hour, minute, and second.
-
 Time is shown in 12-hour format.
-
 Updates every second.
-
 Shows AM/PM based on the current time.
 
 Technologies Used
 
 HTML: Structure of the clock.
-
 CSS: Styling for the clock layout.
-
 JavaScript: Logic to fetch and update the current time.
 
 Project Structure
 
 index.html: The main structure of the clock.
-
 style.css: Styles the clock's layout and appearance.
-
 app.js: Contains the JavaScript logic for fetching and updating the time every second.
 
 How It Works
@@ -33,19 +26,19 @@ How It Works
 The JavaScript file (app.js) uses the Date object to get the current hour, minute, and second. It then formats the time in 12-hour format, adjusting for AM or PM. The clock is updated every second using setTimeout().
 
 Clock Breakdown
+
 Hours, Minutes, Seconds: The time is displayed in separate <span> elements.
 AM/PM: A separate <span> shows whether it is AM or PM.
 Automatic Update: The updateTime() function is called every second to refresh the time.
+
 Setup
+
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/yourusername/digital-clock.git
+
 Navigate to the project directory:
 
-bash
-Copy code
 cd digital-clock
 Open index.html in a web browser:
 
