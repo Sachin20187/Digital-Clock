@@ -1,4 +1,5 @@
 Digital Clock
+
 This is a simple digital clock project built using HTML, CSS, and JavaScript. The clock displays the current time in a 12-hour format, with an indication of AM/PM. It dynamically updates every second.
 
 Features
