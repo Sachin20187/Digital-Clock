@@ -51,6 +51,6 @@ Implement a 24-hour format switch.
 Include different themes for light/dark mode.
 Add animations to enhance the user experience.
 
-✨ Acknowledgements
+✨ Acknowledgements                                                                                
 Sachin Kumar                                                                                                                            
 GitHub: Sachin@20187                                                                                            
