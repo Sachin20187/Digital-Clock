@@ -5,7 +5,7 @@ This clock displays the current time in a 12-hour format with AM/PM indication a
 
 📸 Preview
 
-![image](https://github.com/user-attachments/assets/85e28982-7021-4b07-b208-3e90a134f613)
+![image](https://github.com/user-attachments/assets/a5dbf567-b011-4e6c-b73e-090558842eb7)
 
 
 🚀 Features                                                                                                                                                                                              
